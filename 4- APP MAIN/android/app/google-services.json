@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112053555715",
+    "project_id": "empower-ability",
+    "storage_bucket": "empower-ability.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112053555715:android:67b315fe0ca439d819b436",
+        "android_client_info": {
+          "package_name": "com.example.empower_ability"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIOL7FcyAnMdwhRyRP0OhMXgGjGYYT9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
