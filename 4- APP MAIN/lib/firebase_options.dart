@@ -44,9 +44,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCTHdHHGQ_4_7qQjHPI6WFBvPonF44xU-4',
-    appId: '1:112053555715:web:49c175f96a843e5919b436',
-    messagingSenderId: '112053555715',
+    apiKey: '.............',
+    appId: '.............',
+    messagingSenderId: '............',
     projectId: 'empower-ability',
     authDomain: 'empower-ability.firebaseapp.com',
     storageBucket: 'empower-ability.appspot.com',
@@ -54,26 +54,26 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDSIOL7FcyAnMdwhRyRP0OhMXgGjGYYT9M',
-    appId: '1:112053555715:android:67b315fe0ca439d819b436',
-    messagingSenderId: '112053555715',
+    apiKey: '.......................',
+    appId: '........................',
+    messagingSenderId: '................',
     projectId: 'empower-ability',
     storageBucket: 'empower-ability.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCs44RbqwaRx0DHPqpofZdQQu4hpO1Eob4',
-    appId: '1:112053555715:ios:0f627dbd1942f84119b436',
-    messagingSenderId: '112053555715',
+    apiKey: '.................',
+    appId: '.............',
+    messagingSenderId: '........',
     projectId: 'empower-ability',
     storageBucket: 'empower-ability.appspot.com',
     iosBundleId: 'com.example.empowerAbility',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCs44RbqwaRx0DHPqpofZdQQu4hpO1Eob4',
-    appId: '1:112053555715:ios:dec91521bac7697519b436',
-    messagingSenderId: '112053555715',
+    apiKey: '.......................',
+    appId: '.......................',
+    messagingSenderId: '.............',
     projectId: 'empower-ability',
     storageBucket: 'empower-ability.appspot.com',
     iosBundleId: 'com.example.empowerAbility.RunnerTests',
