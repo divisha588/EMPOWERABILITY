@@ -1,3 +1,3 @@
-# empower_ability
+# EMPOWERABILITY
 
-A new Flutter project.
+A new Flutter and Deep Learning project.
