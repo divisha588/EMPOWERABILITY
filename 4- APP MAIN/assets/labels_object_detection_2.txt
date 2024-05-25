@@ -1,0 +1,9 @@
+0 Human
+1 Bed
+2 Car
+3 Chair
+4 Desk
+5 Door
+6 Stairs
+7 Laptop
+8 Mobile

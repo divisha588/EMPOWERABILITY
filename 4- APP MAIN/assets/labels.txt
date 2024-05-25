@@ -1,0 +1,10 @@
+0 Happy
+1 Hello
+2 I love You
+3 No
+4 Ok
+5 Please
+6 Sad
+7 Thank you
+8 Washroom
+9 Yes
